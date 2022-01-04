@@ -1,6 +1,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
 body .header {
   font-family: 'Poppins', sans-serif;
+  font-size: large;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
