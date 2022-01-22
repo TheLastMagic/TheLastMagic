@@ -12,8 +12,13 @@ You can visit my coding content at instagram and other.
 
 Social's:
 Instagram: instagram.com/onemagicleft
+
 Twitter: twitter.com/onemagicleft
+
 Reddit: reddit.com/user/thelastmagic or u/TheLastMagic
+
 Youtube: TheLastMagic or TheLastMagic Code
+
 Github: github.com/TheLastMagic
+
 Gitlab: gitlab.com/TheLastMagic
