@@ -3,22 +3,26 @@ I will try to update this website often.
 
 
 Here is something about me:
-I am @TheLastMagic or Real Magic
 
-I'm a Software Developer.
-I can code with many languages like C++, Python, Java and lot more.
-I am still learning new and new languages.
-You can visit my coding content at instagram and other.
+  I am @TheLastMagic or Real Magic
 
-Social's:
-Instagram: instagram.com/onemagicleft
+  I'm a Software Developer.
 
-Twitter: twitter.com/onemagicleft
+  I can code with many languages like C++, Python, Java and lot more.
 
-Reddit: reddit.com/user/thelastmagic or u/TheLastMagic
+  I am still learning new and new languages.
 
-Youtube: TheLastMagic or TheLastMagic Code
+  You can visit my coding content at instagram and other.
 
-Github: github.com/TheLastMagic
+  Social's:
+  Instagram: instagram.com/onemagicleft
 
-Gitlab: gitlab.com/TheLastMagic
+  Twitter: twitter.com/onemagicleft
+
+  Reddit: reddit.com/user/thelastmagic or u/TheLastMagic
+
+  Youtube: TheLastMagic or TheLastMagic Code
+
+  Github: github.com/TheLastMagic
+
+  Gitlab: gitlab.com/TheLastMagic
